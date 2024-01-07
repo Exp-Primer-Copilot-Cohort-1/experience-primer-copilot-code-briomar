@@ -1,0 +1,8 @@
+{
+  "name":"Briane's CodeSpace Configuration",
+  "customization":{
+    "vscode":{
+      "extensions":["Github.copilot"]
+    }
+  }
+}
